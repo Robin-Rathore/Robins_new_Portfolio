@@ -49,10 +49,10 @@ import { URLs } from './user-data/urls.js';
       );
     }
   }
+  const name = "Robin Rathore"
 
   function mapBasicResponse(basics) {
     const {
-      name,
       label,
       image,
       email,
